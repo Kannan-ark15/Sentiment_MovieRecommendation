@@ -82,6 +82,6 @@ User Logs In and likes a movie which gets saved in database|User gets recommende
 # Additional Screenshots
 Liking a movie|Disliking a movie| Navigation Drawer
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src= "https://raw.githubusercontent.com/3ZadeSSG/ContentBased-Movie-Recommendation-using-Sentiment-Analysis/master/5. Screenshots/Screenshot Like.png" width="250">|<img src= "https://raw.githubusercontent.com/3ZadeSSG/ContentBased-Movie-Recommendation-using-Sentiment-Analysis/master/5. Screenshots/Screenshot Dislike.png" width="250">|<img src= "https://raw.githubusercontent.com/3ZadeSSG/ContentBased-Movie-Recommendation-using-Sentiment-Analysis/master/5. Screenshots/Screenshot Nav Window.png" width="250">
+<img src= "https://raw.githubusercontent.com/3ZadeSSG/ContentBased-Movie-Recommendation-using-Sentiment-Analysis/master/5. Screenshots/Screenshot Like.png" width="250">|<img src= "https://raw.githubusercontent.com/3ZadeSSG/ContentBased-Movie-Recommendation-using-Sentiment-Analysis/master/5. Screenshots/Screenshot Dislike.png" width="250">
 
 
